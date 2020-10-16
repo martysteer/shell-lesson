@@ -1,0 +1,4 @@
+   1 Language
+12292 eng
+ 506 fre
+  41 ger
